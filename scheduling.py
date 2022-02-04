@@ -1,5 +1,3 @@
-from pprint import pprint
-
 class Presentation:
     def __init__(self, start, end):
         self.start = start
