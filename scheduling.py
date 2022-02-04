@@ -1,14 +1,3 @@
-"""
-A presentation is occurs for n hours and has a starting time and ending time.
-A person can attend only one presentation at a given hour. 
-There is no delay between changing to another presentation.
-
-Given 2 0-indexed arrays scheduleStart and scheduleEnd which 
-represents a presentation as an index, determine the maximum 
-number of presentations a person can go to.
-"""
-
-
 from pprint import pprint
 
 class Presentation:
